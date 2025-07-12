@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm İpek!
 
-<!--
-**ipeknurercan/ipeknurercan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a senior Computer Engineering student with a minor in Management Information Systems.  
+💡 Passionate about building smart systems that blend software, hardware, and data.  
+🛠 Currently working on embedded systems, AI & Machine Learning, and Web3-based applications.  
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools I Use
+- **Languages**: Python, C, JavaScript, TypeScript  
+- **Frameworks**: React.js, Next.js, Tailwind CSS  
+- **Tools**: PyQt5, OpenCV, Flask, Git, Docker  
+- **Hardware**: ESP32, Arduino, sensors, microcontrollers  
+- **Dev Environments**: GitHub, VS Code, Vercel, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect
+- LinkedIn: [linkedin.com/in/ipeknurercan](https://linkedin.com/in/ipeknurercan)  
+- Email: ipeknurercan@gmail.com
